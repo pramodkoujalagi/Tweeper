@@ -1,4 +1,4 @@
-Activate the virtual Python environment
+Activate the virtual Python environment:
 
 virtualenv tweeper
 
